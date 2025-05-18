@@ -2,10 +2,15 @@
 This is AI powered financial Chatbot - Financial Stock Assistant. To use chatbot, OPENAI API key is necessary.
 
 Install these packages to same directory to use code via pip install "library name":
+
 openai==0.28
+
 json
+
 matplotlib.pyplot
+
 streamlit
+
 yfinance
 
 
